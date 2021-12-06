@@ -1,0 +1,7 @@
+F:\Політех\7 семестр\TPR\TPR\Lab2\TPRLab2\TPRLab2\bin\Debug\TPRLab2.exe.config
+F:\Політех\7 семестр\TPR\TPR\Lab2\TPRLab2\TPRLab2\bin\Debug\TPRLab2.exe
+F:\Політех\7 семестр\TPR\TPR\Lab2\TPRLab2\TPRLab2\bin\Debug\TPRLab2.pdb
+F:\Політех\7 семестр\TPR\TPR\Lab2\TPRLab2\TPRLab2\obj\Debug\TPRLab2.csproj.AssemblyReference.cache
+F:\Політех\7 семестр\TPR\TPR\Lab2\TPRLab2\TPRLab2\obj\Debug\TPRLab2.csproj.CoreCompileInputs.cache
+F:\Політех\7 семестр\TPR\TPR\Lab2\TPRLab2\TPRLab2\obj\Debug\TPRLab2.exe
+F:\Політех\7 семестр\TPR\TPR\Lab2\TPRLab2\TPRLab2\obj\Debug\TPRLab2.pdb
